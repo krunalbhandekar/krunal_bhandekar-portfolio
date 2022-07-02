@@ -32,21 +32,21 @@ const Home = ({ history }) => {
               <div>
                 <div className="">
                   <span className="color-customBlueLight h5 font-weight-bold">
-                    Hello !
+                    Hello,
                   </span>
                   <br />
                   <span className="color-customBlue h1 font-weight-bold">
-                    I'm Krunal
+                    I'm Krunal Bhandekar
                   </span>
                   <br />
                   <span className="color-customBlueLight h3">
-                    I'm a <span className="font-weight-bold">full stack</span>{" "}
-                    developer
+                    <span className="font-weight-bold">Full Stack</span>{" "}
+                    Developer
                   </span>
                   <br />
                   <br />
                   <span className="color-customBlueLight h5">
-                    I enjoy developing websites and web applications.
+                   I design and code beautifully simple things, and I love what I do.
                   </span>
                   <br />
                 </div>

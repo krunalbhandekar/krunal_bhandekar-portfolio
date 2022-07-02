@@ -90,7 +90,7 @@ export const projectsList = [
     imgSrc: "images/project1.png",
     src: "https://willowy-tartufo-0e4946.netlify.app/",
     githubSrc: "https://github.com/ganeshsabale99/NNNOWClone",
-    description: "An EdTech Platform with all MVP features",
+    description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
     stack: ["HTML", "CSS", "JavaScript"],
   },
   {
@@ -98,7 +98,7 @@ export const projectsList = [
     imgSrc: "images/project2.png",
     src: "https://shop-com-clone-web17.netlify.app/",
     githubSrc: "https://github.com/mistrivishal/SHOP.COM-clone",
-    description: "A Blog platform where user can publish,edit,delete his blogs",
+    description: "This project is about building an online E-commerce application showing tht functionalities like sorting, search, sidebar, back-to-top, add to cart etc.",
     stack: ["HTML", "CSS", "JavaScript","BOOTSTRAP"],
   }
   

@@ -185,6 +185,9 @@ code {
   margin: 5px;
 }
 
+.h{
+  margin: 50px 0;
+}
 /* Media queries */
 
 @media only screen and (min-width: 600px) and (max-width: 600px) {

@@ -76,7 +76,9 @@ const Contact = () => {
 
           <Button className="contact-btns bg-customBlue mr-2 shadow border-0 py-1">
             <FontAwesomeIcon size="1x" icon={faPhone} />
-            <span>+91 9158291878</span>
+            <span>
+              <a href="tel:+91 9158291878" style={{textDecoration:"none", color:"white"}}>+91 9158291878</a>
+            </span>
           </Button>
 
           <Button
@@ -111,7 +113,6 @@ const Contact = () => {
             <span>Mail</span>
           </Button>
 
-         
         </div>
       </Container>
     </>

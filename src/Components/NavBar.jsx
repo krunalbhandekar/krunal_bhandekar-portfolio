@@ -9,16 +9,16 @@ const navItems = [
     route: "/",
   },
   {
+    label: "About",
+    route: "/about",
+  },
+  {
     label: "Skills",
     route: "/skills",
   },
   {
     label: "Projects",
     route: "/projects",
-  },
-  {
-    label: "About",
-    route: "/about",
   },
   {
     label: "Contact",

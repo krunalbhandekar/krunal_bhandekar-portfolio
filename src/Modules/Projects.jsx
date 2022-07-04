@@ -2,10 +2,17 @@ import React, { Fragment } from "react";
 import { Container, Row, Col, Badge, Button } from "react-bootstrap";
 import { projectsList } from "../utils/helperList";
 
+
 const Projects = () => {
+  const major=()=>{
+    
+  }
+  const mini=()=>{
+
+  }
   return (
     <>
-      
+    
       <Container className="mt-5">
         {/* <h2 className="color-customBlue">Weekend / hobby projects</h2> */}
         {projectsList.map((proj) => (

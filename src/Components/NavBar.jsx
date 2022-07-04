@@ -41,13 +41,14 @@ const CustomNav = () => {
   return (
     <div>
       <Navbar bg="transparent" expand="md" className="mt-2">
-        {/* <Navbar.Brand href="#home"><span className="font-weight-bold">S</span></Navbar.Brand> */}
         <Link
           className="font-weight-bold s-logo text-white text-decoration-none"
           to="/"
         >
           K
         </Link>
+        {/* <h6>Good morning Sir/Mam!</h6> */}
+
         <Navbar.Toggle className="border-0" aria-controls="basic-navbar-nav" />
         <Navbar.Collapse
           id="basic-navbar-nav"

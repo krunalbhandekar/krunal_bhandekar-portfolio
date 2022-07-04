@@ -8,19 +8,12 @@ import Projects from "./Modules/Projects";
 import Contact from "./Modules/Contact";
 import About from "./Modules/About";
 import CustomNav from "./Components/NavBar";
+import Message from "./Modules/Message";
 
 function App() {
   return (
     <>
-    {/* // <BrowserRouter>
-    //   <Switch>
-    //     <Route exact path="/" component={Home} />
-    //     <Route exact path="/skills" component={Skills} />
-    //     <Route exact path="/projects" component={Projects} />
-    //     <Route exact path="/about" component={About} />
-    //     <Route exact path="/contact" component={Contact} />
-    //   </Switch>
-    // </BrowserRouter> */}
+   
     
     <CustomNav/>
     <Routes>
@@ -29,6 +22,7 @@ function App() {
          <Route exact path="/projects" element={<Projects/>} />
         <Route exact path="/about" element={<About/>} />
         <Route exact path="/contact" element={<Contact/>} />
+        <Route exact path="/message" element={<Message/>} />
      </Routes>
     </>
   );

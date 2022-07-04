@@ -92,6 +92,7 @@ export const projectsList = [
     githubSrc: "https://github.com/ganeshsabale99/NNNOWClone",
     description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
     stack: ["HTML", "CSS", "JavaScript"],
+    project:"major"
   },
   {
     label: "SHOP.com Clone",
@@ -100,6 +101,7 @@ export const projectsList = [
     githubSrc: "https://github.com/mistrivishal/SHOP.COM-clone",
     description: "This project is about building an online E-commerce application showing tht functionalities like sorting, search, sidebar, back-to-top, add to cart etc.",
     stack: ["HTML", "CSS", "JavaScript","BOOTSTRAP"],
+    project:"mini"
   }
   
 ];

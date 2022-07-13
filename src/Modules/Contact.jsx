@@ -90,6 +90,7 @@ const Contact = () => {
             <FontAwesomeIcon size="1x" icon={faLinkedinIn} />
             <span>Linkedin</span>
           </Button>
+          
           <Button
             className="contact-btns bg-customBlue mr-2 shadow border-0 py-1"
             onClick={() =>

@@ -86,6 +86,15 @@ export const backSkillsList = [
 
 export const projectsList = [
   {
+    label: "SHOP.com Clone",
+    imgSrc: "images/project2.png",
+    src: "https://shop-com-clone-web17.netlify.app/",
+    githubSrc: "https://github.com/mistrivishal/SHOP.COM-clone",
+    description: "This project is about building an online E-commerce application showing tht functionalities like sorting, search, sidebar, back-to-top, add to cart etc.",
+    stack: ["HTML", "CSS", "JavaScript","BOOTSTRAP"],
+    project:"mini"
+  },
+  {
     label: "NNNOW.com Clone",
     imgSrc: "images/project1.png",
     src: "https://willowy-tartufo-0e4946.netlify.app/",
@@ -95,13 +104,40 @@ export const projectsList = [
     project:"major"
   },
   {
-    label: "SHOP.com Clone",
-    imgSrc: "images/project2.png",
-    src: "https://shop-com-clone-web17.netlify.app/",
-    githubSrc: "https://github.com/mistrivishal/SHOP.COM-clone",
-    description: "This project is about building an online E-commerce application showing tht functionalities like sorting, search, sidebar, back-to-top, add to cart etc.",
-    stack: ["HTML", "CSS", "JavaScript","BOOTSTRAP"],
+    label: "Google Search",
+    imgSrc: "images/google.png",
+    src: "https://google-voice-search.netlify.app/",
+    githubSrc: "https://github.com/krunalbhandekar/Google-Search-Clone",
+    description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
+    stack: ["HTML", "CSS", "JavaScript","Reactjs","BOOTSTRAP","Google Api"],
     project:"mini"
-  }
+  },
+  {
+    label: "Tic-Tac-Toe",
+    imgSrc: "images/tic-tac-toe.png",
+    src: "https://react-tic-tac-toe-2022.netlify.app/",
+    githubSrc: "https://github.com/krunalbhandekar/Tic-Tac-Toe",
+    description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
+    stack: ["HTML", "CSS", "JavaScript","Reactjs"],
+    project:"mini"
+  },
+  {
+    label: "Todo",
+    imgSrc: "images/todo.png",
+    src: "https://velvety-ganache-19eee7.netlify.app/",
+    githubSrc: "https://github.com/krunalbhandekar/Todo",
+    description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
+    stack: ["HTML", "CSS", "JavaScript","Reactjs"],
+    project:"mini"
+  },
+  {
+    label: "Digital Clock",
+    imgSrc: "images/digital-clock.png",
+    src: "https://digital-clock-date.netlify.app/",
+    githubSrc: "https://github.com/krunalbhandekar/Digital-Clock",
+    description: "This website is a clone of NNNOW.com which is an E-commerce store and here I implemented some functionalities like add to cart, signup, login, discount coupon etc.",
+    stack: ["HTML", "CSS", "JavaScript","Reactjs"],
+    project:"mini"
+  },
   
 ];
